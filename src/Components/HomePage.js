@@ -66,6 +66,7 @@ function HomePage() {
             <Link to={`/country/${country.name}`} className="country-link">
               {country.name}
             </Link>
+            <p>{country.region}</p>
           </div>
         ))}
       </div>
