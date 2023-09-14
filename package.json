@@ -1,5 +1,4 @@
 {
-  "homepage": "https://iankiema.github.io/Country-Info-webapp",
   "name": "metrics-webapp",
   "version": "0.1.0",
   "private": true,
@@ -28,9 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --transformIgnorePatterns \"node_modules/(?!axios)/\"",
     "eject": "react-scripts eject",
-    "clear-jest-cache": "jest --clearCache",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "clear-jest-cache": "jest --clearCache"
   },
   "eslintConfig": {
     "extends": [
