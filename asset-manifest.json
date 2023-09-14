@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Country-Info-webapp/static/css/main.5b527361.css",
+    "main.js": "/Country-Info-webapp/static/js/main.facf904d.js",
+    "static/media/gear-solid.svg": "/Country-Info-webapp/static/media/gear-solid.0b8b0e87c72e112a07abd0ddfca6b5ba.svg",
+    "index.html": "/Country-Info-webapp/index.html",
+    "static/media/microphone-solid.svg": "/Country-Info-webapp/static/media/microphone-solid.6f91927461340478dc48250641407b6b.svg",
+    "static/media/circle-right-regular.svg": "/Country-Info-webapp/static/media/circle-right-regular.93220247b70b76bb2d2a0b95845e0e88.svg",
+    "static/media/angle-left-solid.svg": "/Country-Info-webapp/static/media/angle-left-solid.8c07f1e1e5f6a47170ff166659293649.svg",
+    "main.5b527361.css.map": "/Country-Info-webapp/static/css/main.5b527361.css.map",
+    "main.facf904d.js.map": "/Country-Info-webapp/static/js/main.facf904d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b527361.css",
+    "static/js/main.facf904d.js"
+  ]
+}
