@@ -54,7 +54,7 @@
 
 - [View Video](https://www.loom.com/share/My-Project-Presentation-41a30e8e8813440bb67feb7c13a5c314?sid=1eadfa42-6ddd-4444-a8b1-060bdc9da551)
 
-- [View Live Demo]( https://iankiema.github.io/Country-Info-webapp/)
+- [View Live Demo]( https://lucent-meerkat-779ad2.netlify.app//)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
