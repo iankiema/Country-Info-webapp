@@ -40,7 +40,9 @@ function HomePage() {
   };
 
   if (loading) {
-    return <div className='load-div'><h2>Loading...</h2></div>;
+    return <div className="loading-container" data-testid="loading-spinner">
+            <div className="spinner"></div>
+          </div>;
   }
 
   if (error) {

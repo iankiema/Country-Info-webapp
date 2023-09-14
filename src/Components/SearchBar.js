@@ -16,6 +16,7 @@ const SearchBar = ({ onSearch }) => {
   return (
     <div className="search-bar">
       <input
+        id="searchInput"
         type="text"
         placeholder="Search for a country..."
         value={searchText}
