@@ -32,7 +32,9 @@ function CountryDetailsPage() {
   }, [code]);
 
   if (loading) {
-    return <div className='load-div'><h2>Loading...</h2></div>;
+    return <div className="loading-container">
+              <div className="spinner"></div>
+            </div>;
   }
 
   if (error || !countryData) {

@@ -40,7 +40,9 @@ function HomePage() {
   };
 
   if (loading) {
-    return <div className='load-div'><h2>Loading...</h2></div>;
+    return <div className="loading-container" data-testid="loading-spinner">
+            <div className="spinner"></div>
+          </div>;
   }
 
   if (error) {
@@ -66,6 +68,7 @@ function HomePage() {
             <Link to={`/country/${country.name}`} className="country-link">
               {country.name}
             </Link>
+            <p>{country.region}</p>
           </div>
         ))}
       </div>
